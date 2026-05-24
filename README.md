@@ -16,7 +16,6 @@ need:
 git clone <repo>
 cd crypto-reconciler
 npm install
-cp .env.example .env
 # edit .env if needed (mongo url, port, tolerances)
 ```
 
